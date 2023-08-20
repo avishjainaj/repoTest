@@ -9,7 +9,6 @@ Code, Compile, Run and Debug online from anywhere in world.
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World......");
-		System.out.println("THIS IS DEEPESH PURTY");
+		System.out.println("Hello World......")
 	}
 }
